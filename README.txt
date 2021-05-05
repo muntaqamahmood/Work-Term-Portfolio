@@ -1,2 +1,1 @@
-My website Portfolio link:
-https://muntaqamahmood.github.io/generic.html
+[My website Portfolio](https://muntaqamahmood.github.io/generic.html)
