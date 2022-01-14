@@ -1,1 +1,1 @@
-[My website Portfolio](https://muntaqamahmood.github.io/generic.html)
+Live now at -> https://muntaqamahmood.github.io/generic.html
