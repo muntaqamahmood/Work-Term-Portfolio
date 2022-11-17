@@ -1,1 +1,1 @@
-Live now at -> https://muntaqamahmood.github.io/myPortfolio.cv/index.html
+https://muntaqamahmood.github.io/Work-Term-Portfolio/
